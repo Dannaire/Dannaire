@@ -11,12 +11,6 @@ About Me
 
 
 
-Skills
-HTML  CSS  Bootstrap JavaScript Php
-
-MySql  Postman  Java  PHP  Visual Studio Code  Git  GitHub 
-
-Canva  Figma Adobe Illustrator  Adobe Photoshop 
 
 
 
