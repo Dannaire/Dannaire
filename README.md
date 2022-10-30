@@ -36,6 +36,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Dannaire/Dannaire/blob/output/snake.svg" alt="Snake animation" />
 
 ###
