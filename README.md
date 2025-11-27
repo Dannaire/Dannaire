@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Zidane and I'm a FrontEnd Developer, from  SMK Telkom Malang</h2>
+<h2 align="left">Hi 👋! My name is Zidane and I'm a FrontEnd Developer, from  SMK Telkom Malang, Akun Coba Coba Aja Ga Profesional</h2>
 
 ###
 
